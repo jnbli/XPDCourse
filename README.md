@@ -26,7 +26,7 @@ python3 -m ipykernel install --user --name=xpd
 **Step 5.** Collect images using the Notebook 1\. Image Collection.ipynb - ensure you change the kernel to the virtual environment xpd
 
 **Step 6.** Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders.  
-\\TFODCourse\\Tensorflow\\workspace\\images\\train  
-\\TFODCourse\\Tensorflow\\workspace\\images\\test  
+./Tensorflow/workspace/images/train  
+./Tensorflow/workspace/images/test  
   
 **Step 7.** Begin training process by opening [2\. Training and Detection.ipynb] this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model.  
