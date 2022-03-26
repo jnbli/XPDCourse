@@ -1,4 +1,4 @@
-# Xilinx Package Detection using Tensorflow
+# Package Detection using Tensorflow
 
 This set of Notebooks was taken from https://github.com/nicknochnack/TFODCourse by following the [Youtube Tutorial](https://youtu.be/yqkISICHH-U) from 
 Nicholas Renotte's [YouTube channel](https://www.youtube.com/c/nicholasrenotte). The differences are the training dataset was modified to detect packages instead of hand signs and the virtual environment was renamed from tfod to xpd. Also there is a slight modification in the jupyter notebook 2. Training and Detection.ipynb to detect package theft when the package moves upwards in 10 successive frames.
