@@ -1,0 +1,26 @@
+<annotation>
+	<folder>package</folder>
+	<filename>package.24eb8102-6901-11ec-80a1-84ad8d5ec72a.jpg</filename>
+	<path>/Users/jonathanli/Dev/Xilinx Package Detection/XPDCourse/Tensorflow/workspace/images/collectedimages/package/package.24eb8102-6901-11ec-80a1-84ad8d5ec72a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>165</ymin>
+			<xmax>648</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

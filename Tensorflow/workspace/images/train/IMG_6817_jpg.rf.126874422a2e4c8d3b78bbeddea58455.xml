@@ -1,0 +1,26 @@
+<annotation>
+	<folder>package</folder>
+	<filename>IMG_6817_jpg.rf.126874422a2e4c8d3b78bbeddea58455.jpg</filename>
+	<path>IMG_6817_jpg.rf.126874422a2e4c8d3b78bbeddea58455.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1536</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>1414</ymin>
+			<xmax>952</xmax>
+			<ymax>1581</ymax>
+		</bndbox>
+	</object>
+</annotation>

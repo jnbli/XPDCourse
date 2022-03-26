@@ -1,0 +1,26 @@
+<annotation>
+	<folder>package</folder>
+	<filename>PXL_20201107_191145720_jpg.rf.731e0a788f9196506754febd2ae8a0df.jpg</filename>
+	<path>PXL_20201107_191145720_jpg.rf.731e0a788f9196506754febd2ae8a0df.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>568</ymin>
+			<xmax>639</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>
